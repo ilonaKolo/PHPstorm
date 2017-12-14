@@ -1,6 +1,5 @@
 <?php
     $minuNimi = "Ilona";
-        print "Minu nimi on $minuNimi!";
-
-
+        define('MINU_NIMI','Ilona');
+        print 'Minu nimi on '.MINU_NIMI.'!';
 ?>
